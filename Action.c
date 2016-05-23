@@ -1,8 +1,6 @@
 Action()
 {
 	
-	//this is a new change by VM
-	
 	web_add_cookie("SRCHUID=V=2&GUID=F58DEF1DC50E47A9946272229A673A4B; DOMAIN=api.bing.com");
 
 	web_add_cookie("MUIDB=181864C9C8D46C493FCB6DD3C9A66D76; DOMAIN=api.bing.com");
